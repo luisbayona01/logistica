@@ -63,8 +63,12 @@ Si usas Docker, asegúrate de levantar los contenedores:
 docker-compose up -d
 ```
 
+aqui algunas    imagenes del  funcionamiento de la aplicacion 
+![image](https://github.com/user-attachments/assets/a8411706-4ce2-4115-af37-6a08f5f247af)
 
+![image](https://github.com/user-attachments/assets/05757982-adb3-4398-bd79-55ba1c55038a)
 
+![image](https://github.com/user-attachments/assets/d28fe399-bb57-48da-a637-0717e3f86a39)
 
 ## Autor
 
